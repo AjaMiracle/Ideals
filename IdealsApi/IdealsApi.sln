@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdealsApi", "IdealsApi\IdealsApi.csproj", "{7CD75D74-BFAD-406E-9952-3B72D35AD75D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdealsApi", "IdealsApi\IdealsApi.csproj", "{7CD75D74-BFAD-406E-9952-3B72D35AD75D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "IdealsFrontend", "IdealsFrontend\IdealsFrontend.esproj", "{68BB5C44-66FA-4BA1-9D90-DF4A26CCCA73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{7CD75D74-BFAD-406E-9952-3B72D35AD75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD75D74-BFAD-406E-9952-3B72D35AD75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD75D74-BFAD-406E-9952-3B72D35AD75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BB5C44-66FA-4BA1-9D90-DF4A26CCCA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BB5C44-66FA-4BA1-9D90-DF4A26CCCA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BB5C44-66FA-4BA1-9D90-DF4A26CCCA73}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{68BB5C44-66FA-4BA1-9D90-DF4A26CCCA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BB5C44-66FA-4BA1-9D90-DF4A26CCCA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BB5C44-66FA-4BA1-9D90-DF4A26CCCA73}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
